@@ -1,0 +1,38 @@
+{
+  "title": "Dream",
+  "description": "A website that embodies the essence of dreams, featuring serene visuals and inspiring content.",
+  "hero": {
+    "headline": "Embrace Your Dreams",
+    "subheadline": "Discover the beauty of dreaming and let your imagination soar.",
+    "image": "path/to/hero-image.jpg"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "About Dreams",
+      "content": "Dreams are the whispers of the soul, guiding us towards our true desires and aspirations."
+    },
+    {
+      "id": "inspiration",
+      "title": "Inspiration",
+      "content": "Let the stories of dreamers inspire you to chase your own dreams and make them a reality."
+    },
+    {
+      "id": "gallery",
+      "title": "Dream Gallery",
+      "images": [
+        "path/to/image1.jpg",
+        "path/to/image2.jpg",
+        "path/to/image3.jpg"
+      ]
+    }
+  ],
+  "footer": {
+    "copyright": "© 2023 Dream Website. All rights reserved.",
+    "socialMedia": {
+      "facebook": "https://facebook.com/dreamwebsite",
+      "twitter": "https://twitter.com/dreamwebsite",
+      "instagram": "https://instagram.com/dreamwebsite"
+    }
+  }
+}
